@@ -1,7 +1,5 @@
 Improving generalization of federated learning in heterogeneous IoT Edge Networks
 =
-## Target conference: 2021 IEEE Global Communications Conference (GLOBECOM)
-* Submission deadline: 2021.04.15 (23:59)
 
 ### Todo list
 1. Related works 조사
